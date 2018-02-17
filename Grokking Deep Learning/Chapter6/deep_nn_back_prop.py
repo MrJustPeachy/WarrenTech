@@ -3,10 +3,6 @@
 # PROGRAMMER: Dillon Pietsch
 # DATE WRITTEN: 10/19/2017
 
-# PROGRAM NAME: deep_nn.py
-# PROGRAM PURPOSE: Create a deep neural network
-# PROGRAMMER: Dillon Pietsch
-# DATE WRITTEN: 10/8/2017
 
 import numpy as np
 
